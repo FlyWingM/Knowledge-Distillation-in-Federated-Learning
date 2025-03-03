@@ -51,11 +51,7 @@ CCFRL consists of:
    - Computes **real-time energy consumption and emissions** based on client locations.
    - Prioritizes clients operating in **low-carbon intensity regions**.
 
-## Installation
 
-To use CCFRL, follow these steps:
-
-```bash
-git clone https://github.com/your-username/ccfrl.git
-cd ccfrl
-pip install -r requirements.txt
+## 4. Access
+You can access the **Accepted Manuscript** directly here: ([link-to-file.pdf](https://github.com/FlyWingM/my-publications/blob/1868d0e587c6ef502794b0c3843ba1bb319a6d7c/Pioneering_Eco_Efficiency_in_Cloud_Computing__The_Carbon_Conscious_Federated_Reinforcement_Learning__CCFRL__Approach_revision_v_final_github.pdf).  
+*This version has been peer-reviewed and accepted but may differ from the final published version.*
